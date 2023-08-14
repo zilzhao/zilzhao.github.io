@@ -20,7 +20,7 @@ Education
   * Cumulative GPA: 3.76 / 4.00 <br>
 * Minor in Business Administration, Wuhan University, 2020 <br>
   * Cumulative GPA: 3.82 / 4.00, Average score: 91.09 / 100, Ranking: **3** / 265<br>
-  * Honors: <font color=Red>**National Scholarship**</font> (**2019**, **2020**), National Encouragement scholarship (2018), First Prize Scholarship (2019, 2020, 2%), Outstanding Graduates (2021), Merit Student (2019, 2020), Excellent Student Cadre (2020), Advanced Individual of Social Work (2019), Outstanding Volunteer (2018)<br>
+  * Honors: <font color=OrangeRed>**National Scholarship**</font> (**2019**, **2020**), National Encouragement scholarship (2018), First Prize Scholarship (2019, 2020, 2%), Outstanding Graduates (2021), Merit Student (2019, 2020), Excellent Student Cadre (2020), Advanced Individual of Social Work (2019), Outstanding Volunteer (2018)<br>
   * **Thesis Topic**: Traffic State Perception and Data Imputation Based on Spatio-Temporal Trajectory Data.
 
 
