@@ -14,8 +14,12 @@
   * **National Scholarship**, *Ministry of Education of China*, **Twice** (2019, 2020).
   * **National Encouragement scholarship**, *Ministry of Education of China*, 2018.
   * **First Prize Scholarship**, *Wuhan University*, **Twice** (2019, 2020, 2%).
-  * **Outstanding Graduates**, *Wuhan University*, 2021.
   * **Merit Student**, *Wuhan University*, **Twice** (2019, 2020).
+  * **Outstanding Graduate Student**, *Wuhan University*, 2022.
+  * Second Prize Scholarship, *Wuhan University*, 2022.
+  * Outstanding Freshman Scholarship for Graduate Students, *Wuhan University*, 2021.
+  * Laboratory Scholarship for Outstanding New Masters Students, *LIESMARS (Wuhan University)*, 2021.
+  * Outstanding Graduates, *Wuhan University*, 2021.
   * Excellent Student Cadre, *Wuhan University*, 2020.
   * Advanced Individual of Social Work, *Wuhan University*, 2019.
   * Outstanding Volunteer, *Wuhan University*, 2018.<br>
