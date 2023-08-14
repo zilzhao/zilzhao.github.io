@@ -9,3 +9,15 @@
   * National Second Prize in *the 18th China Post-Graduate Mathematical Contest in Modeling*, 2021.
   * Winning Prize in *Digital China Holdings Campus Geek Contest*, 2022.
   * National Third Prize in *China Postgraduate ‘Carbon Peaking and Carbon Neutrality’ Innovation and Creativity Contest*, 2022.
+
+## Honors
+  * **National Scholarship**, *Ministry of Education of China*, **Twice** (2019, 2020).
+  * **National Encouragement scholarship**, *Ministry of Education of China*, 2018.
+  * **First Prize Scholarship**, *Wuhan University*, **Twice** (2019, 2020, 2%).
+  * **Outstanding Graduates**, *Wuhan University*, 2021.
+  * **Merit Student**, *Wuhan University*, **Twice** (2019, 2020).
+  * Excellent Student Cadre, *Wuhan University*, 2020.
+  * Advanced Individual of Social Work, *Wuhan University*, 2019.
+  * Outstanding Volunteer, *Wuhan University*, 2018.
+
+![image](/images/Awards.png)
