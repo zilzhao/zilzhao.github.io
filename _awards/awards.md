@@ -18,6 +18,6 @@
   * **Merit Student**, *Wuhan University*, **Twice** (2019, 2020).
   * Excellent Student Cadre, *Wuhan University*, 2020.
   * Advanced Individual of Social Work, *Wuhan University*, 2019.
-  * Outstanding Volunteer, *Wuhan University*, 2018.
+  * Outstanding Volunteer, *Wuhan University*, 2018.<br>
 
 ![image](/images/Awards.png)
