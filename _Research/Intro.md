@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Framework"
 permalink: /Research/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research Framework
-======
+
 ❓ **Motivation 1:** How to characterize massive, **high-dimensional** geographic big data? <br>
 
 ❓ **Motivation 2:** How to capture the **intrinsic nonlinear** characteristics of geographic big data? <br>
