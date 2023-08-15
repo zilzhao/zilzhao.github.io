@@ -14,5 +14,10 @@ To address these issues, my research includes:
 
 ✔️ **High-dynamic**: We break through the two-point form (origin-destination) for flow characterization and innovatively propose *Path Flow*.
 
-![Editing a markdown file for a talk](/images/Outline.png)
 
+GeoAI | GIScience & Tensor Theory
+------
+  A high-dimensional tensor is a desirable representation of spatiotemporal field data with multi-dimensionality, such as traffic speed data.
+  - Incorporating *tensor models* into *geospatial analysis* provides a better way to deal with spatiotemporal field data, reveal the intrinsic structure of complex spatio-temporal data, and capture interdependencies in multiple dimensions.
+  - The incorporation of *geographic thinking* endows *tensor models* with explicit representations of spatiotemporal patterns, thereby facilitating the practical application of high-dimensional analytical methods in real scenarios, such as urban perception and pattern analysis.
+  🏕️ **Urban Traffic Data Imputation:**
