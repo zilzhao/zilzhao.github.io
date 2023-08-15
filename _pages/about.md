@@ -1,4 +1,4 @@
-![image](https://github.com/zilzhao/zilzhao.github.io/assets/49839932/058ebedd-69a3-4b6b-b937-a68e0fba7bc7)---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
