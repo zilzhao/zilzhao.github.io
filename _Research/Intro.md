@@ -16,7 +16,7 @@ redirect_from:
 
 ❓ **Motivation 3:** How to characterize the **high-dynamic** activity flow of geographic big data? <br>
 
-### To address these issues, my research includes:
+  To address these issues, my research includes:
 
 ✔️ **High-dimensional**: We combine *GIScience methods* with *Tensor Theory* to deal with high-dimensional spatio-temporal field data.
 
@@ -27,7 +27,7 @@ redirect_from:
 
 GeoAI | GIScience & Tensor Theory
 ------
-#### A high-dimensional tensor is a desirable representation of spatiotemporal field data with multi-dimensionality, such as traffic speed data.<br>
+  A high-dimensional tensor is a desirable representation of spatiotemporal field data with multi-dimensionality, such as traffic speed data.<br>
   - Incorporating *tensor models* into *geospatial analysis* provides a better way to deal with spatiotemporal field data, reveal the intrinsic structure of complex spatio-temporal data, and capture interdependencies in multiple dimensions.
   - The incorporation of *geographic thinking* endows *tensor models* with explicit representations of spatiotemporal patterns, thereby facilitating the practical application of high-dimensional analytical methods in real scenarios, such as urban perception and pattern analysis.
 
@@ -42,7 +42,7 @@ GeoAI | GIScience & Tensor Theory
 
 GeoAI | GIScience & Deep Learning
 ------
-#### Fine-grained traffic forecasting is crucial for the planning and management of urban transportation systems.<br>
+  Fine-grained traffic forecasting is crucial for the planning and management of urban transportation systems.<br>
   🗺️ **Complex Urban Traffic Forecasting:** Most current approaches concentrate on point-based and grid-based forecasts, ignoring the real bidirectional-road-based network structure.
   - Guangyue Li, ***Zilong Zhao\****, Yang Chen, Luliang Tang, Jinghan Wang, Xu Chu, Chaokui Li. Towards Complex Urban Traffic Forecasting: A Fully Attentional Approach Enhanced by Graph Representation. IEEE Transactions on Intelligent Transportation Systems. (**Corresponding author**, Under review)
 
@@ -53,7 +53,7 @@ GeoAI | GIScience & Deep Learning
 
 Path flow
 ------
-#### The original OD flow's representation of trip's start and end points lacks the portrayal of trajectories/individual travel behaviors, and does not fully exploit the trajectory/travel information.<br>
+  The original OD flow's representation of trip's start and end points lacks the portrayal of trajectories/individual travel behaviors, and does not fully exploit the trajectory/travel information.<br>
   🚶 **Modeling:** Path flow is a high-dimensional flow structure based on all the road segments passed by the user's travel trajectory in the road network space.
   - ***Zilong Zhao***, Hongyu Shi, Luliang Tang, Zihan Kan, Mei-Po Kwan. From OD flow to Path flow: Flow Representation and Pattern Mining for Trajectory Big Data. To be submitted to *International Journal of Geographical Information Science*.
 
