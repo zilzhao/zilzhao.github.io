@@ -15,4 +15,4 @@ I'm a third-year master's student from [State Key Laboratory of Information Engi
   * :cityscape: Urban Informatics
   * :taxi: Intelligent Transportation Systems
 
-## What's New! 	:hand:
+## :point_down: What's New!
