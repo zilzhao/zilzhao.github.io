@@ -1,4 +1,4 @@
-![image](https://github.com/zilzhao/zilzhao.github.io/assets/49839932/d08f3811-ff58-441d-89df-4b8d8a39b048)---
+---
 layout: archive
 title: "Research"
 permalink: /Research/
