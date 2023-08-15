@@ -40,6 +40,7 @@ GeoAI | GIScience & Tensor Theory
   - ***Zilong Zhao***,Luliang Tang, Chang Ren, Xue Yang, Zihan Kan, Qingquan Li. Diagnosing Urban Traffic Anomalies by Integrating Geographic Information and Tensor Theory. *GIScience & Remote Sensing*. (Under Review)<br>
   ![image](/images/Anomaly.png)
 
+
 GeoAI | GIScience & Deep Learning
 ------
 #### Fine-grained traffic forecasting is crucial for the planning and management of urban transportation systems.<br>
@@ -49,6 +50,7 @@ GeoAI | GIScience & Deep Learning
   🗺️ **Integrated and Fine-grained Traffic Forecasting:** Road segments and intersection turns, as vital elements of road networks, exhibit diverse spatial structures, yet their traffic states are interconnected due to spatial proximity.
   - Guangyue Li, ***Zilong Zhao\****, Xiaogang Guo, Luliang Tang, Huazu Zhang, Jinghan Wang. Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach. Information Fusion. (**Corresponding author**, Under review, 2nd round)
   ![image](/images/Prediction.png)
+
 
 Path flow
 ------
