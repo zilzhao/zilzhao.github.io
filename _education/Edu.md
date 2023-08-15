@@ -11,15 +11,15 @@ permalink: /education/
   - **Supervisor:** Luliang Tang, Qingquan Li.
   - Average score: **91.16** / 100
 
-**Bachelor of Engineering** in *Geodesy and Geomatics Engineering*
+**Bachelor of Engineering**
 ------
-:books: *Wuhan University*, China, 2021
+:books: ***Geodesy and Geomatics Engineering***, *Wuhan University*, China, 2021
 
   - Cumulative GPA: 3.82 / 4.00, Average score: 91.09 / 100, **Ranking**: **3 / 265**
   - **Thesis Topic:** Traffic State Perception and Data Imputation Based on Spatio-Temporal Trajectory Data.
 
-**Minor** in *Business Administration*
+**Minor**
 ------
-:black_nib: *Wuhan University*, China, 2020
+:black_nib: ***Business Administration***, *Wuhan University*, China, 2020
 
   - Cumulative GPA: 3.76 / 4.00
