@@ -5,7 +5,7 @@ permalink: /education/
 
 **Master of Science** in *Cartography and Geographic Information Science*
 ------
-:round_pushpin: *Wuhan University*, China, Expected June 2024
+:memo: *Wuhan University*, China, Expected June 2024
 
   - Research interest: Human Mobility, GIS, Urban Informatics, Intelligent Transportation Systems
   - Supervisor: Luliang Tang, Qingquan Li.
