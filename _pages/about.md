@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👨‍💼 About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+## 👨‍💼 About me
 I'm a third-year master's student from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing](http://www.lmars.whu.edu.cn/en), [Wuhan University](https://en.whu.edu.cn/). **Supervisor:** *Prof.* [Luliang Tang](http://jszy.whu.edu.cn/tangluliang),  *Prof.* [Qingquan Li](http://saup.szu.edu.cn/info/1091/1416.htm).<br>
 
   The rapid development of mobile positioning and computing technologies has led to massive *Geographic big data*, creating unprecedented opportunities for urban sensing. My research utilizes **geographic big data** (especially trajectory data) to address problems in **human mobility** and **complex urban transport systems** by developing innovative **geospatial analytical methods**.
