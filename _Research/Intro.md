@@ -24,7 +24,7 @@ redirect_from:
 
 ✔️ **High-dynamic**: We break through the two-point form (origin-destination) for flow characterization and innovatively propose *Path Flow*.
 
-***
+
 GeoAI | GIScience & Tensor Theory
 ------
   A high-dimensional tensor is a desirable representation of spatiotemporal field data with multi-dimensionality, such as traffic speed data.<br>
@@ -39,7 +39,7 @@ GeoAI | GIScience & Tensor Theory
   - ***Zilong Zhao***,Luliang Tang, Chang Ren, Xue Yang, Zihan Kan, Qingquan Li. Diagnosing Urban Traffic Anomalies by Integrating Geographic Information and Tensor Theory. *GIScience & Remote Sensing*. (Under Review)<br>
   ![image](/images/Anomaly.png)
 
-***
+****
 GeoAI | GIScience & Deep Learning
 ------
   Fine-grained traffic forecasting is crucial for the planning and management of urban transportation systems.<br>
@@ -51,7 +51,7 @@ GeoAI | GIScience & Deep Learning
   - Guangyue Li, ***Zilong Zhao\****, Xiaogang Guo, Luliang Tang, Huazu Zhang, Jinghan Wang. Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach. *Information Fusion*. (**Corresponding author**, Under review, 2nd round)<br>
   ![image](/images/Prediction.png)
 
-***
+****
 Path flow
 ------
   The original OD flow's representation of trip's start and end points lacks the portrayal of trajectories/individual travel behaviors, and does not fully exploit the trajectory/travel information.<br>
