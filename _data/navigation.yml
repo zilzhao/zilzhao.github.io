@@ -5,10 +5,10 @@ main:
     url: /education/
         
   - title: "Research"
-    url: /Research/
+    url: /publications/
 
   - title: "Publications"
-    url: /publications/    
+    url: /Research/    
     
   - title: "Project"
     url: /project/
