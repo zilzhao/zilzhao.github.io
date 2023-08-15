@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Project"
+permalink: /project/
+author_profile: true
+redirect_from:
+  - /project
+---
+
+{% include base_path %}
+
 ## Turn-level traffic flow sensing and prediction technology based on spatio-temporal trajectory big data fusion
   *Core researcher and developer*, Funded by *Huawei Technologies Co., Ltd. (No. YBN2018095106)*, 2020.05-2021.12 <br>
   * Develop a spatio-temporal analysis empowered low-rank tensor completion method for traffic data imputation, by considering the continuity, periodicity and transitivity of traffic flow.
