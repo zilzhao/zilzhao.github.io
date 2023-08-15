@@ -17,4 +17,4 @@ I'm a third-year master's student from [State Key Laboratory of Information Engi
 
 ## :point_down: What's New!
   * :page_facing_up: **August 2023**. Check our new publication: ***Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective*** in *Travel Behaviour and Society*!
-  * :page_facing_up: **July 2023**. Check our new publication: ***Toward urban traffic scenarios and more: a spatio-temporal analysis empowered low-rank tensor completion method for data imputation*** in *International Journal of Geographical Information Science*!
+  * :page_facing_up: **July 2023**. Check our new publication: ***Toward urban traffic scenarios and more: a spatio-temporal analysis empowered low-rank tensor completion method for data imputation*** in *International Journal of Geographical Information Science*! [Paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2234434)
