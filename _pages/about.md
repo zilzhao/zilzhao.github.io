@@ -25,7 +25,7 @@ I'm a third-year master's student from [LIESMARS](http://www.lmars.whu.edu.cn/en
   * 🚕 Intelligent Transportation Systems
 
 ## 👇 *What's New*!
-  * 📄 **August 2023**. Check our new publication: ***Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective*** in *Travel Behaviour and Society*!
-  * 📄 **July 2023**. Check our new publication: ***Toward urban traffic scenarios and more: a spatio-temporal analysis empowered low-rank tensor completion method for data imputation*** in *International Journal of Geographical Information Science*! [[Paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2234434)] [[Code](https://figshare.com/articles/online_resource/ST-LRTC_Code_Data_zip/20289078)]
-  * 🎙️ **May 2023**. ***Zilong Zhao*** presented how to diagnose urban anomalies by combining tensor theory and geographic analysis methods at China GIS Annual Conference (2023).
-  * 📈 **December 2022**. *Urban Sensing and Green Transportation Team* (Leader: ***Zilong Zhao***) won the National Third Prize in China Postgraduate ‘Carbon Peaking and Carbon Neutrality’ Innovation and Creativity Contest.
+  * 📄 August 2023. Check our new publication: ***Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective*** in *Travel Behaviour and Society*!
+  * 📄 July 2023. Check our new publication: ***Toward urban traffic scenarios and more: a spatio-temporal analysis empowered low-rank tensor completion method for data imputation*** in *International Journal of Geographical Information Science*! [[Paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2234434)] [[Code](https://figshare.com/articles/online_resource/ST-LRTC_Code_Data_zip/20289078)]
+  * 🎙️ May 2023. ***Zilong Zhao*** presented how to diagnose urban anomalies by combining tensor theory and geographic analysis methods at China GIS Annual Conference (2023).
+  * 📈 December 2022. *Urban Sensing and Green Transportation Team* (Leader: ***Zilong Zhao***) won the National Third Prize in China Postgraduate ‘Carbon Peaking and Carbon Neutrality’ Innovation and Creativity Contest.
