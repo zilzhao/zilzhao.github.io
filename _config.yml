@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zilong Zhao / Academic Website"
 title_separator          : "-"
-name                     : div align=center>"Zilong Zhao"</div>  # &name "Zilong Zhao"<
+name                     : <p align="center">Zilong Zhao</p> # &name "Zilong Zhao"
 description              : &description "Wuhan University"
 url                      : https://zilzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
