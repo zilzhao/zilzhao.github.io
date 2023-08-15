@@ -1,20 +1,19 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: 'Education'
+permalink: /education/
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Wuhan University, China, Expected June 2024
+**Master of Science** in *Cartography and Geographic Information Science*
+  - Research interest: Human Mobility, GIS, Urban Informatics, Intelligent Transportation Systems
+  - Supervisor: Luliang Tang, Qingquan Li.
+  - Average score: **91.16** / 100
 
-Headings are cool
-======
+Wuhan University, China, 2019.03-2020.06
+**Minor** in *Business Administration*
+  - Cumulative GPA: 3.76 / 4.00
 
-You can have many headings
-======
-
-Aren't headings cool?
-------
+Wuhan University, China, 2017.09-2021.06
+**Bachelor of Engineering** in *Geodesy and Geomatics Engineering*
+  - Cumulative GPA: 3.82 / 4.00, Average score: 91.09 / 100, **Ranking**: **3 / 265**
+  - **Thesis Topic:** Traffic State Perception and Data Imputation Based on Spatio-Temporal Trajectory Data.
