@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a third-year master's student from [LIESMARS](http://www.lmars.whu.edu.cn/en), [Wuhan University](https://en.whu.edu.cn/). Supervisor: *Prof.* [Luliang Tang](http://jszy.whu.edu.cn/tangluliang),  *Prof.* [Qingquan Li](http://saup.szu.edu.cn/info/1091/1416.htm).<br>
 
-  The rapid development of mobile positioning and computing technologies has led to massive *Geographic big data*, creating unprecedented opportunities for urban sensing. My research utilizes *geographic big data* (especially trajectory data) to address problems in *human mobility* and *complex urban transport systems* by developing innovative *geospatial analytical methods*.
+  The rapid development of mobile positioning and computing technologies has led to massive *Geographic Big Data*, creating unprecedented opportunities for *Urban Sensing*. My research utilizes *geographic big data* (especially trajectory data) to address problems in *human mobility* and *complex urban transport systems* by developing innovative *geospatial analytical methods*.
   
   My research is devoted to addressing three main characteristics of geographic big data: **High-dimensional**, **Non-linear**, and **High-dynamic**.
   - *High-dimensional*: We combine **GIScience methods** with **Tensor Theory** to deal with high-dimensional spatio-temporal field data.
