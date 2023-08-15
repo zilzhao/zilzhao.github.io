@@ -17,7 +17,7 @@ Research Framework
 
 ❓ **Motivation 3:** How to characterize the **high-dynamic** activity flow of geographic big data? <br>
 
-To address these issues, my research includes:
+### To address these issues, my research includes:
 
 ✔️ **High-dimensional**: We combine *GIScience methods* with *Tensor Theory* to deal with high-dimensional spatio-temporal field data.
 
