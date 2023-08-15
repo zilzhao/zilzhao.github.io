@@ -18,11 +18,11 @@ redirect_from:
 
   To address these issues, my research includes:
 
-✔️ **High-dimensional**: We combine *GIScience methods* with *Tensor Theory* to deal with high-dimensional spatio-temporal field data.
+✔️ **High-dimensional**: We combine ***GIScience methods*** with ***Tensor Theory*** to deal with high-dimensional spatio-temporal field data.
 
-✔️ **Non-linear**: We combine *GIScience methods* with *Deep Learning* (e.g., Transformer) to re-veal the intrinsic structure of complex spatio-temporal data.
+✔️ **Non-linear**: We combine ***GIScience methods*** with ***Deep Learning*** (e.g., Transformer) to re-veal the intrinsic structure of complex spatio-temporal data.
 
-✔️ **High-dynamic**: We break through the two-point form (origin-destination) for flow characterization and innovatively propose *Path Flow*.
+✔️ **High-dynamic**: We break through the two-point form (origin-destination) for flow characterization and innovatively propose ***Path Flow***.
 
 
 GeoAI | GIScience & Tensor Theory
