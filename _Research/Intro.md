@@ -43,6 +43,7 @@ GeoAI | GIScience & Tensor Theory
 GeoAI | GIScience & Deep Learning
 ------
   Fine-grained traffic forecasting is crucial for the planning and management of urban transportation systems.<br>
+  
   🗺️ **Complex Urban Traffic Forecasting:** Most current approaches concentrate on point-based and grid-based forecasts, ignoring the real bidirectional-road-based network structure.
   - Guangyue Li, ***Zilong Zhao\****, Yang Chen, Luliang Tang, Jinghan Wang, Xu Chu, Chaokui Li. Towards Complex Urban Traffic Forecasting: A Fully Attentional Approach Enhanced by Graph Representation. *IEEE Transactions on Intelligent Transportation Systems*. (**Corresponding author**, Under review)
 
@@ -54,6 +55,7 @@ GeoAI | GIScience & Deep Learning
 Path flow
 ------
   The original OD flow's representation of trip's start and end points lacks the portrayal of trajectories/individual travel behaviors, and does not fully exploit the trajectory/travel information.<br>
+  
   🚶 **Modeling:** Path flow is a high-dimensional flow structure based on all the road segments passed by the user's travel trajectory in the road network space.
   - ***Zilong Zhao***, Hongyu Shi, Luliang Tang, Zihan Kan, Mei-Po Kwan. From OD flow to Path flow: Flow Representation and Pattern Mining for Trajectory Big Data. To be submitted to *International Journal of Geographical Information Science*.
 
