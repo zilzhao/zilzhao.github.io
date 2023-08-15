@@ -17,7 +17,7 @@ I'm a third-year master's student from [State Key Laboratory of Information Engi
   - *Non-linear*: We combine **GIScience methods** with **Deep Learning** (e.g., Transformer) to re-veal the intrinsic structure of complex spatio-temporal data.
   - *High-dynamic*: We break through the two-point form (origin-destination) for flow characterization and innovatively propose **Path Flow**.
 
-## :label: Research interest:
+## 🏷️ Research interest:
   * 🧑‍🤝‍🧑 Human Mobility
   * 🌏 Geographic Information Science
   * 🏙️ Urban Informatics
