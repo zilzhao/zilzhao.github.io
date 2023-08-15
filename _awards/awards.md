@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Awards & Honors"
+permalink: /awards/
+author_profile: true
+redirect_from:
+  - /awards
+---
+
+{% include base_path %}
+
 ## Competition Awards
 
   * **National First Prize** in *National Mathematical Modeling Contest*, 2019.
