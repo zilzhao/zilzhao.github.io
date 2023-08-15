@@ -18,7 +18,7 @@ I'm a third-year master's student from [State Key Laboratory of Information Engi
   - *High-dynamic*: We break through the two-point form (origin-destination) for flow characterization and innovatively propose **Path Flow**.
 
 ## Research interest:
-    * :people_holding_hands: Human Mobility
-    * :earth_asia: Geographic Information Science
-    * :cityscape: Urban Informatics
-    * :taxi: Intelligent Transportation Systems
+  * :people_holding_hands: Human Mobility
+  * :earth_asia: Geographic Information Science
+  * :cityscape: Urban Informatics
+  * :taxi: Intelligent Transportation Systems
