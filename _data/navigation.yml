@@ -4,16 +4,16 @@ main:
   - title: "Education"
     url: /education/
         
-  - title: "Research"
+  - title: "Research Experience"
     url: /publications/
 
   - title: "Publications"
     url: /Research/    
     
-  - title: "Project"
+  - title: "Project Experience"
     url: /project/
 
-  - title: "Conference"
+  - title: "Conference Presentations"
     url: /talks/    
     
   - title: "Awards"
