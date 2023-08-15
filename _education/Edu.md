@@ -7,8 +7,8 @@ permalink: /education/
 ------
 :memo: *Wuhan University*, China, Expected June 2024
 
-  - Research interest: Human Mobility, GIS, Urban Informatics, Intelligent Transportation Systems
-  - Supervisor: Luliang Tang, Qingquan Li.
+  - **Research interest:** Human Mobility, GIS, Urban Informatics, Intelligent Transportation Systems
+  - **Supervisor:** Luliang Tang, Qingquan Li.
   - Average score: **91.16** / 100
 
 **Bachelor of Engineering** in *Geodesy and Geomatics Engineering*
