@@ -1,4 +1,4 @@
-## About me
+## :man_student: About me
 
 I'm a third-year master's student from [State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing](http://www.lmars.whu.edu.cn/en), [Wuhan University](https://en.whu.edu.cn/). **Supervisor:** *Prof.* [Luliang Tang](http://jszy.whu.edu.cn/tangluliang),  *Prof.* [Qingquan Li](http://saup.szu.edu.cn/info/1091/1416.htm).<br>
 
@@ -9,7 +9,7 @@ I'm a third-year master's student from [State Key Laboratory of Information Engi
   - *Non-linear*: We combine **GIScience methods** with **Deep Learning** (e.g., Transformer) to re-veal the intrinsic structure of complex spatio-temporal data.
   - *High-dynamic*: We break through the two-point form (origin-destination) for flow characterization and innovatively propose **Path Flow**.
 
-## Research interest:
+## :label: Research interest:
   * :people_holding_hands: Human Mobility
   * :earth_asia: Geographic Information Science
   * :cityscape: Urban Informatics
