@@ -12,7 +12,7 @@ redirect_from:
 ## Turn-level traffic flow sensing and prediction technology based on spatio-temporal trajectory big data fusion
   *Core researcher and developer*, Funded by *Huawei Technologies Co., Ltd. (No. YBN2018095106)*, 2020.05-2021.12 <br>
   * Develop a spatio-temporal analysis empowered low-rank tensor completion method for traffic data imputation, by considering the continuity, periodicity and transitivity of traffic flow.
-  * Construct a ‘segment-turn’ based traffic topology graph (named dyadic graph), and develop a fine-grained traffic prediction method with graph attention network to achieve turn-level prediction of traffic states.<br>
+  * Construct a ‘segment-turn’ based traffic topology graph (named dual graph), and develop a fine-grained traffic prediction method with graph attention network to achieve turn-level prediction of traffic states.<br>
   ![image](/images/HW.png)
 
 ## AI-based key technology for unmanned inspection of extra-high arch dams
