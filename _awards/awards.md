@@ -26,6 +26,7 @@ redirect_from:
   * **National Encouragement scholarship**, *Ministry of Education of China*, 2018.
   * **First Prize Scholarship**, *Wuhan University*, **Twice** (2019, 2020, 2%).
   * **Merit Student**, *Wuhan University*, **Twice** (2019, 2020).
+  * **Best Presentation Award**, *International Society for Urban Informatics*, 2023.
   * **Outstanding Graduate Student**, *Wuhan University*, 2022.
   * Second Prize Scholarship, *Wuhan University*, 2022.
   * Outstanding Freshman Scholarship for Graduate Students, *Wuhan University*, 2021.
