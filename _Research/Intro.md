@@ -59,7 +59,7 @@ Human Mobility & Sustainability
 ------
   The modeling and analysis of human mobility behavior can facilitate the sustainable development of transportation systems, including decarbonization and resilience. <br>
   
-  🚶 **Modeling:** The original OD flow's representation of trip's start and end points lacks the portrayal of trajectories/individual travel behaviors, and does not fully exploit the trajectory/travel information. Path flow is a high-dimensional flow structure based on all the road segments passed by the user's travel trajectory in the road network space.
+  🚶 **Modeling:** The original OD flow's representation of trip's start and end points lacks the portrayal of trajectories / individual travel behaviors, and does not fully exploit the trajectory/travel information. Path flow is a high-dimensional flow structure based on all the road segments passed by the user's travel trajectory in the road network space.
   - ***Zilong Zhao***, Hongyu Shi, Luliang Tang, Zihan Kan, Mei-Po Kwan. From OD flow to Path flow: Flow Representation and Pattern Mining for Trajectory Big Data. To be submitted to *International Journal of Geographical Information Science*.
 
   🚶 **Sustainability:** Massive personal short-distance trips impose certain travel costs on travelers, cause considerable stress on road traffic, and degrade the surrounding environment. Constructing shuttle services and encouraging residents to shift travel patterns from private modes to shuttle services may reduce traffic pressure and further provide cost-effective and eco-friendly transportation for citizens.
