@@ -20,6 +20,7 @@ redirect_from:
   * National Second Prize in *the 18th China Post-Graduate Mathematical Contest in Modeling*, 2021.
   * Winning Prize in *Digital China Holdings Campus Geek Contest*, 2022.
   * National Third Prize in *China Postgraduate ‘Carbon Peaking and Carbon Neutrality’ Innovation and Creativity Contest*, 2022.
+  * Top-10 Score in *Human Mobility Prediction Challenge*, MIT Connection Science, 2023.
 
 ## Honors
   * **National Scholarship**, *Ministry of Education of China*, **Twice** (2019, 2020).
