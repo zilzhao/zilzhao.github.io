@@ -24,6 +24,7 @@ I'm a third-year master's student from [LIESMARS](http://www.lmars.whu.edu.cn/en
   * 🚕 Intelligent Transportation Systems
 
 ## 👇 *What's New*!
+  * 📄 October 2023. Check our new publication: ***Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach*** in *Information Fusion*! [[Paper](https://doi.org/10.1016/j.inffus.2023.102063)]
   * 🎙️ August 2023. ***Zilong Zhao***'s presentation won the *GSCS&ICUI 2023* **Best Presentation Award**!
   * 📄 August 2023. Check our new publication: ***Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective*** in *Travel Behaviour and Society*! [[Paper](https://doi.org/10.1016/j.tbs.2023.100649)]
   * 📄 July 2023. Check our new publication: ***Toward urban traffic scenarios and more: a spatio-temporal analysis empowered low-rank tensor completion method for data imputation*** in *International Journal of Geographical Information Science*! [[Paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2234434)] [[Code](https://figshare.com/articles/online_resource/ST-LRTC_Code_Data_zip/20289078)]
