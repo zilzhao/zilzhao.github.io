@@ -18,7 +18,7 @@ I'm a third-year master's student from [LIESMARS](http://www.lmars.whu.edu.cn/en
   - *High-dynamic*: We break through the two-point form (origin-destination) for flow characterization and innovatively propose **Path Flow**.
 
 ## 🏷️ Research interest:
-  * 🧑‍🤝‍🧑 Human Mobility
+  * 🏃 Human Mobility
   * 🌏 Geographic Information Science
   * 🏙️ Urban Informatics
   * 🚕 Intelligent Transportation Systems
