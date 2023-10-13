@@ -32,7 +32,7 @@ GeoAI | GIScience & Tensor Theory
   - The incorporation of *geographic thinking* endows *tensor models* with explicit representations of spatiotemporal patterns, thereby facilitating the practical application of high-dimensional analytical methods in real scenarios, such as urban perception and pattern analysis.
 
   🏕️ **Urban Traffic Data Imputation:** Adopt a manifold embedding approach to depict the local geometric structure of spatio-temporal domains, and propose a novel Spatio-Temporal constrained Low-Rank Tensor Completion (ST-LRTC) method.<br>
-  - ***Zilong Zhao***, Luliang Tang, Mengyuan Fang, Xue Yang, Chaokui Li, Qingquan Li (2023). Toward urban traffic scenarios and more: a spatio-temporal analysis empowered low-rank tensor completion method for data imputation. *International Journal of Geographical Information Science*, 1-34.<br>
+  - ***Zilong Zhao***, Luliang Tang, Mengyuan Fang, Xue Yang, Chaokui Li, Qingquan Li (2023). Toward urban traffic scenarios and more: a spatio-temporal analysis empowered low-rank tensor completion method for data imputation. *International Journal of Geographical Information Science*, 1-34. (JCR Q1, IF=5.7, **TOP Journal in GIS**) <br>
   
   ![image](/images/Imputation.png)
 
@@ -50,7 +50,7 @@ GeoAI | GIScience & Deep Learning
   - Guangyue Li, ***Zilong Zhao\****, Yang Chen, Luliang Tang, Jinghan Wang, Xu Chu, Chaokui Li. Towards Complex Urban Traffic Forecasting: A Fully Attentional Approach Enhanced by Graph Representation. *IEEE Transactions on Intelligent Transportation Systems*. (**Corresponding author**, Under review)
 
   🗺️ **Integrated and Fine-grained Traffic Forecasting:** Road segments and intersection turns, as vital elements of road networks, exhibit diverse spatial structures, yet their traffic states are interconnected due to spatial proximity.
-  - Guangyue Li, ***Zilong Zhao\****, Xiaogang Guo, Luliang Tang, Huazu Zhang, Jinghan Wang. Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach. *Information Fusion*. (**Corresponding author**, Under review, 2nd round)<br>
+  - Guangyue Li, ***Zilong Zhao\****, Xiaogang Guo, Luliang Tang, Huazu Zhang, Jinghan Wang. Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach. *Information Fusion*. (**Corresponding author**, JCR Q1, **IF=18.6**, **TOP Journal in AI**)<br>
   
   ![image](/images/Prediction.png)
 
