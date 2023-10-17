@@ -23,7 +23,7 @@ redirect_from:
   * Top-10 Score in *Human Mobility Prediction Challenge*, MIT Connection Science, 2023.
 
 ## Honors
-  * **National Scholarship**, *Ministry of Education of China*, **Twice** (2019, 2020).
+  * **National Scholarship**, *Ministry of Education of China*, **Three times** (2019, 2020, 2023).
   * **National Encouragement scholarship**, *Ministry of Education of China*, 2018.
   * **First Prize Scholarship**, *Wuhan University*, **Twice** (2019, 2020, 2%).
   * **Merit Student**, *Wuhan University*, **Twice** (2019, 2020).
