@@ -24,6 +24,7 @@ I'm a third-year master's student from [LIESMARS](http://www.lmars.whu.edu.cn/en
   * 🚕 Intelligent Transportation Systems
 
 ## 👇 *What's New*!
+  * 🏆 October 2023. Congratulations to ***Zilong Zhao*** for receiving the **National Scholarship**, Ministry of Education of China, 2023.
   * 📄 October 2023. Check our new publication: ***Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach*** in *Information Fusion*! [[Paper](https://doi.org/10.1016/j.inffus.2023.102063)]
   * 🎙️ August 2023. ***Zilong Zhao***'s presentation won the *GSCS&ICUI 2023* **Best Presentation Award**!
   * 📄 August 2023. Check our new publication: ***Identifying Critical Urban Intersections from a Fine-grained Spatio-Temporal Perspective*** in *Travel Behaviour and Society*! [[Paper](https://doi.org/10.1016/j.tbs.2023.100649)]
