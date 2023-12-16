@@ -24,7 +24,7 @@ I'm a third-year master's student from [LIESMARS](http://www.lmars.whu.edu.cn/en
   * 🚕 Intelligent Transportation Systems
 
 ## 👇 *What's New*!
-  * 📄 December 2023. Check our new publication: ***Diagnosing Urban Traffic Anomalies by Integrating Geographic Knowledge and Tensor Theory*** in *GIScience & Remote Sensing*!
+  * 📄 December 2023. Check our new publication: ***Diagnosing Urban Traffic Anomalies by Integrating Geographic Knowledge and Tensor Theory*** in *GIScience & Remote Sensing*! [[Paper](https://doi.org/10.1080/15481603.2023.2290347)]
   * 📄 November 2023. Check our new publication: ***Achieving fine-grained urban flood perception and spatio-temporal evolution analysis based on social media*** in *Sustainable Cities and Society*! [[Paper](https://doi.org/10.1016/j.scs.2023.105077)]
   * 🏆 October 2023. Congratulations to ***Zilong Zhao*** for receiving the **National Scholarship**, Ministry of Education of China, 2023.
   * 📄 October 2023. Check our new publication: ***Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach*** in *Information Fusion*! [[Paper](https://doi.org/10.1016/j.inffus.2023.102063)]
