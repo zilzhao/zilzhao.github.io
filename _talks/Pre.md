@@ -9,13 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-## ST-LRTC: A Spatio-Temporal analysis empowered Low-Rank Tensor Completion method for missing traffic data imputation
-  📅 August 23, 2023, Hong Kong, China<br>
+## Turning Sub-Node: Identifying Critical Urban Intersections from a Fine-grained Spatiotemporal Perspective.
+  📅 December 18, 2023, Wuhan, China <br>
+  *Oral presentation*, The 2023 International Graduate Workshop on GeoInformatics (IGWG2023). <br>
+  
+## ST-LRTC: A Spatio-Temporal analysis empowered Low-Rank Tensor Completion method for missing traffic data imputation.
+  📅 August 23, 2023, Hong Kong, China <br>
   *Oral presentation*, The Global Smart Cities Summit (GSCS 2023) cum The 3rd International Conference on Urban Informatics (ICUI 2023) <br>
   ***Best Presentation Award***, International Society for Urban Informatics.
 
-## Spatio-temporal low-rank sparse tensor model and its application in urban anomaly analysis
-  📅 May 20, 2023, Guilin, China<br>
+## Spatio-temporal low-rank sparse tensor model and its application in urban anomaly analysis.
+  📅 May 20, 2023, Guilin, China <br>
   *Oral presentation*, The 18th Annual Conference on Theory and Methods of Geographic Information Science <br>
 
 ## To what extent can community shuttle services enhance transport efficiency and improve the surrounding environment?
