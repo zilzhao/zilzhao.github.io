@@ -47,7 +47,7 @@ GeoAI | GIScience & Deep Learning
   Fine-grained traffic forecasting is crucial for the planning and management of urban transportation systems.<br>
   
   🗺️ **Complex Urban Traffic Forecasting:** Most current approaches concentrate on point-based and grid-based forecasts, ignoring the real bidirectional-road-based network structure.
-  - Guangyue Li, ***Zilong Zhao\****, Yang Chen, Luliang Tang, Jinghan Wang, Xu Chu, Chaokui Li. Towards Complex Urban Traffic Forecasting: A Fully Attentional Approach Enhanced by Graph Representation. *IEEE Transactions on Intelligent Transportation Systems*. (**Corresponding author**, Under review)
+  - Guangyue Li, ***Zilong Zhao\****, Yang Chen, Luliang Tang, Jinghan Wang, Xu Chu, Chaokui Li. Towards Complex Urban Traffic Forecasting: A Fully Attentional Approach Enhanced by Graph Representation. *IEEE Transactions on Intelligent Transportation Systems*. (Under review)
 
   🗺️ **Integrated and Fine-grained Traffic Forecasting:** Road segments and intersection turns, as vital elements of road networks, exhibit diverse spatial structures, yet their traffic states are interconnected due to spatial proximity.
   - Guangyue Li, ***Zilong Zhao\****, Xiaogang Guo, Luliang Tang, Huazu Zhang, Jinghan Wang. Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach. *Information Fusion*. (**Corresponding author**, JCR Q1, **IF=18.6**, **TOP Journal in AI**)<br>
