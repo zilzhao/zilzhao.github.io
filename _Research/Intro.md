@@ -37,7 +37,7 @@ GeoAI | GIScience & Tensor Theory
   ![image](/images/Imputation.png)
 
   🏕️ **Urban Traffic Anomaly Diagnosis:** A novel Spatio-Temporal constrained Low-Rank Sparse Tensor (ST-LRST) method is proposed to decompose urban traffic data into normal and anomalous components.<br>
-  - ***Zilong Zhao***,Luliang Tang, Chang Ren, Xue Yang, Zihan Kan, Qingquan Li (2023). Diagnosing Urban Traffic Anomalies by Integrating Geographic Information and Tensor Theory. *GIScience & Remote Sensing*. (**JCR Q1**, IF=6.7) <br>
+  - ***Zilong Zhao***,Luliang Tang, Chang Ren, Xue Yang, Zihan Kan, Qingquan Li (2023). Diagnosing Urban Traffic Anomalies by Integrating Geographic Information and Tensor Theory. *GIScience & Remote Sensing*. (JCR Q1, IF=6.7, **TOP Journal in GIS&RS**) <br>
   
   ![image](/images/Anomaly.png)
 
