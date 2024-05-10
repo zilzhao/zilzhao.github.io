@@ -50,7 +50,7 @@ GeoAI | GIScience & Deep Learning
   - Guangyue Li, ***Zilong Zhao\****, Yang Chen, Luliang Tang, Jinghan Wang, Xu Chu, Chaokui Li. Towards Complex Urban Traffic Forecasting: A Fully Attentional Approach Enhanced by Graph Representation. *IEEE Transactions on Intelligent Transportation Systems*. (Under review)
 
   🗺️ **Integrated and Fine-grained Traffic Forecasting:** Road segments and intersection turns, as vital elements of road networks, exhibit diverse spatial structures, yet their traffic states are interconnected due to spatial proximity.
-  - Guangyue Li, ***Zilong Zhao\****, Xiaogang Guo, Luliang Tang, Huazu Zhang, Jinghan Wang. Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach. *Information Fusion*. (**Corresponding author**, JCR Q1, **IF=18.6**, **TOP Journal in AI**)<br>
+  - Guangyue Li, ***Zilong Zhao\****, Xiaogang Guo, Luliang Tang, Huazu Zhang, Jinghan Wang. (2023). Towards integrated and fine-grained traffic forecasting: A spatio-temporal heterogeneous graph transformer approach. *Information Fusion*. (JCR Q1, **IF=18.6**, **TOP Journal in AI**)<br>
   
   ![image](/images/Prediction.png)
 
@@ -58,9 +58,6 @@ GeoAI | GIScience & Deep Learning
 Human Mobility & Sustainability
 ------
   The modeling and analysis of human mobility behavior can facilitate the sustainable development of transportation systems, including decarbonization and resilience. <br>
-  
-  🚶 **Modeling:** The original OD flow's representation of trip's start and end points lacks the portrayal of trajectories / individual travel behaviors, and does not fully exploit the trajectory/travel information. Path flow is a high-dimensional flow structure based on all the road segments passed by the user's travel trajectory in the road network space.
-  - ***Zilong Zhao***, Hongyu Shi, Luliang Tang, Zihan Kan, Mei-Po Kwan. From OD flow to Path flow: Flow Representation and Pattern Mining for Trajectory Big Data. To be submitted to *International Journal of Geographical Information Science*.
 
   🚶 **Sustainability:** Massive personal short-distance trips impose certain travel costs on travelers, cause considerable stress on road traffic, and degrade the surrounding environment. Constructing shuttle services and encouraging residents to shift travel patterns from private modes to shuttle services may reduce traffic pressure and further provide cost-effective and eco-friendly transportation for citizens.
   - ***Zilong Zhao***, Mengyuan Fang, Luliang Tang, Xue Yang, Zihan Kan, and Qingquan Li. (2022). The impact of community shuttle services on traffic and traffic-related air pollution. *International Journal of Environmental Research and Public Health*, 19(22), 15128.<br>
@@ -68,13 +65,11 @@ Human Mobility & Sustainability
   ![image](/images/Pollution.png)
 
   🚶 **Resilience:** The traditional way of using a single point to characterize the whole complex intersection cannot finely reflect the dynamic information of intersections. We upgrade the evaluation scale of intersections to turn level, propose intersection TSN, and achieve a refined and dynamic evaluation of urban intersections.
-  - ***Zilong Zhao***, Luliang Tang, Xue Yang, Huazu Zhang, Guangyue Li, and Qingquan Li (2023). Identifying Critical Urban Intersections from A Fine-grained Spatio-Temporal Perspective. *Travel Behaviour and Society*.<br>
+  - ***Zilong Zhao***, Luliang Tang, Xue Yang, Huazu Zhang, Guangyue Li, and Qingquan Li (2024). Identifying Critical Urban Intersections from A Fine-grained Spatio-Temporal Perspective. *Travel Behaviour and Society*.(SSCI, IF=5.2)<br>
   
   ![image](/images/TSN.png)
 
-
-
-
-
+  🚶 **Sensing:** Timely understanding of affected areas during disasters is essential for the implementation of emergency response activities. We propose a novel framework for fine-grained information extraction and dynamic spatial-temporal awareness in disaster-stricken areas based on Sina Weibo.
+   - *Zhiyu Yan, Xiaogang Guo, ***Zilong Zhao***, Luliang Tang (2023). Achieving fine-grained urban flood perception and spatio-temporal evolution analysis based on social media. *Sustainable Cities and Society*. (JCR Q1, IF=11.7, TOP Journal in Urban studies)<br>
 
 
