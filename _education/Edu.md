@@ -14,7 +14,7 @@ redirect_from:
 📝 ***Cartography and Geographic Information Science***, *Wuhan University*, China, Expected June 2024
 
   - **Research interest:** Human Mobility, GIS, Urban Informatics, Intelligent Transportation Systems
-  - **Supervisor:** Luliang Tang, Qingquan Li.
+  - **Advisor:** Luliang Tang.
   - Average score: **91.16** / 100
 
 **Bachelor of Engineering**
